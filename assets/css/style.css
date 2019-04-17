@@ -1,0 +1,58 @@
+.panel-title {
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.container {
+    color: black;
+}
+
+.jumbotron {
+    background-image: url(https://previews.123rf.com/images/blinow61/blinow611102/blinow61110200029/8964945-abstract-close-up-red-brick-wall-background.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+    color: whitesmoke;
+    font-size: 300%;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    border: 2px solid black;
+
+}
+
+body {
+    background-image: url(https://www.railwayage.com/wp-content/uploads/2018/11/1920px-Selkirk_Yard_2012a.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ctschedule {
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#trainTable {
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.add {
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+
+.panel-body{
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 110%;
+}
